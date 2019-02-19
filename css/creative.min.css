@@ -112,7 +112,7 @@ body {
 }
 
 #register{
-	
+
 	font-weight: 800 !important;
 	border: 3px solid;
 	width: 100%;
@@ -299,12 +299,12 @@ header.masthead h1 {
 
 .case-study a{
 	color: #414042;
-	
+
 }
 
 .case-study a:hover{
 	color: #4ec3e0;
-	
+
 }
 .impact-info {
     padding: 50px;
@@ -753,21 +753,21 @@ a:hover, a:focus {
 	position: relative;
 border: none;
 	color: #414042;
-	
 
-	
+
+
 }
 
-#accordion .list-group-item{ 
+#accordion .list-group-item{
 border: none;
 	list-style-type: square !important;
 display: list-item;
-	
+
 
 }
 
 #accordion ul li{
-	
+
 }
 
 
@@ -2510,15 +2510,15 @@ display: list-item;
 
 .anchor{
 	position: relative;
-	
+
 }
 
 .anchor a {
 	position: absolute;
 	left: 0px;
 	top: -85px;
-	
- 
+
+
 }
 .btn-cta {
     border-radius: 0;
@@ -2755,7 +2755,7 @@ header {
 }
 .carousel-item h3 {
     font-weight: 300;
-    margin-top: 20%;
+    margin-top: 10%;
 }
 .carousel-item h1 {
     font-weight: 900 !important;
@@ -2876,7 +2876,7 @@ background-color: #F8F9FA;
   background: rgb(78, 195, 224);
   color: white;
 }
-    
+
 .reg-pricing ul.reg-option:nth-of-type(3) li.title{
   background: rgb(225, 184, 28);
   color: white;
@@ -2902,7 +2902,7 @@ background-color: #F8F9FA;
 .reg-pricing ul.reg-option li:last-of-type{
   text-align: center;
   margin-top: auto; /*align last LI (price botton li) to the very bottom of UL */
-}  
+}
 
 .reg-pricing a.pricebutton{
   background: #414042;
@@ -2922,19 +2922,19 @@ background-color: #F8F9FA;
     width: 100%;
     margin-right: 0;
   }
-  
+
   .reg-pricing ul.reg-option:hover{
     transform: none;
     box-shadow: none;
   }
-  
+
   .reg-pricing a.pricebutton{
     display: block;
   }
 }
 
 h1{
-	
+
 	text-transform: uppercase;
 }
 
@@ -2952,19 +2952,19 @@ h1{
 }
 
 .event-info a{
-	
+
 	color: white;
-	
+
 }
 
 .bg-conf-red{
 	background-color: #e03e52;
-	
+
 }
 
 .bg-conf-green{
 	background-color: #78be20;
-	
+
 }
 
 .registration-button{
@@ -2981,7 +2981,7 @@ h1{
 	letter-spacing: 3px;
 
 
-	
+
 }
 
 .registration-button a:hover{
@@ -2992,5 +2992,5 @@ h1{
 	letter-spacing: 3px;
 
 
-	
+
 }
