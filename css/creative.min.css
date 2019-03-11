@@ -2710,8 +2710,11 @@ header {
     color: #fff;
     text-align: left;
     min-height: 400px;
-    background-color: #e03e52;
-    background-image: url(../assets/img/branding/object-images-clubs-multiply.png);
+    background: #15335a; /* Old browsers */
+    background: -moz-linear-gradient(-45deg, #15335a 0%, #0084c1 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(-45deg, #15335a 0%,#0084c1 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(135deg, #15335a 0%,#0084c1 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#15335a', endColorstr='#0084c1',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
     background-size: cover;
     height: 100vh;
 }
